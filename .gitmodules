@@ -1,0 +1,6 @@
+[submodule "Packages/DebugInfo"]
+	path = Packages/DebugInfo
+	url = git@github.com:mic-code/DebugInfo.git
+[submodule "Packages/Singleton"]
+	path = Packages/Singleton
+	url = git@github.com:mic-code/Singleton.git
